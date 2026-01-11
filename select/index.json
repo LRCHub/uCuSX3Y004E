@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Pris-Magic!",
+  "base_artist": "しぐれうい",
+  "createdAt": "2026-01-11T08:48:36.358604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pris-Magic!",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/01_Pris-Magic!_しぐれうい.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pris-Magic! (instrumental)",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/02_Pris-Magic!_(instrumental)_しぐれうい.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pris-Magic!",
+      "artist": "ShigureUi",
+      "has_synced": true,
+      "path": "select/03_Pris-Magic!_ShigureUi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pris-Magic!",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/pl_01_Pris-Magic!_しぐれうい.txt"
+    }
+  ]
+}
